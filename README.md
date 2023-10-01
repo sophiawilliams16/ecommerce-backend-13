@@ -26,9 +26,8 @@ To install the project ...
 
 ## Usage  
 
-The following animation shows the application's routes being tested in Insomnia:
+Please see this video link through Google Drive for a walk through of the functionality [LINK](https://drive.google.com/file/d/1BSfCjP01sMMR-wjpTeq0if9gHooFwud5/view).
 
-![In Insomnia, the user tests “GET", "GET by id", "PUT", and "DELETE" for all Tags, Categories, and Products.](./Assets/13-orm-homework-demo-01.gif)
 
 
 ## Credits
